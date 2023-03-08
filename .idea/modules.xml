@@ -4,7 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Online-teaching-Plus-Project.iml" filepath="$PROJECT_DIR$/.idea/Online-teaching-Plus-Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/online-teaching-plus-base/online-teaching-plus-base.iml" filepath="$PROJECT_DIR$/online-teaching-plus-base/online-teaching-plus-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content.iml" filepath="$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-api/online-teaching-plus-content-api.iml" filepath="$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-api/online-teaching-plus-content-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-model/online-teaching-plus-content-model.iml" filepath="$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-model/online-teaching-plus-content-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-service/online-teaching-plus-content-service.iml" filepath="$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-service/online-teaching-plus-content-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/online-teaching-plus-parent/online-teaching-plus-parent.iml" filepath="$PROJECT_DIR$/online-teaching-plus-parent/online-teaching-plus-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xuecheng-plus-generator/xuecheng-plus-generator.iml" filepath="$PROJECT_DIR$/xuecheng-plus-generator/xuecheng-plus-generator.iml" />
     </modules>
   </component>
 </project>

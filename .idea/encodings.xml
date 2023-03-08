@@ -3,8 +3,18 @@
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/online-teaching-plus-base/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/online-teaching-plus-base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-teaching-plus-content/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-teaching-plus-content/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/online-teaching-plus-parent/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/online-teaching-plus-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xuecheng-plus-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

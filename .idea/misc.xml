@@ -8,6 +8,11 @@
       <list>
         <option value="$PROJECT_DIR$/online-teaching-plus-parent/pom.xml" />
         <option value="$PROJECT_DIR$/online-teaching-plus-base/pom.xml" />
+        <option value="$PROJECT_DIR$/online-teaching-plus-content/pom.xml" />
+        <option value="$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-model/pom.xml" />
+        <option value="$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-generator/pom.xml" />
       </list>
     </option>
   </component>
