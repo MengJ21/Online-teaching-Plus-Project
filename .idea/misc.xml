@@ -13,6 +13,15 @@
         <option value="$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-service/pom.xml" />
         <option value="$PROJECT_DIR$/online-teaching-plus-content/online-teaching-plus-content-api/pom.xml" />
         <option value="$PROJECT_DIR$/xuecheng-plus-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/online-teaching-plus-system/pom.xml" />
+        <option value="$PROJECT_DIR$/online-teaching-plus-system/online-teaching-plus-system-api/pom.xml" />
+        <option value="$PROJECT_DIR$/online-teaching-plus-system/online-teaching-plus-system-model/pom.xml" />
+        <option value="$PROJECT_DIR$/online-teaching-plus-system/online-teaching-plus-system-service/pom.xml" />
+        <option value="$PROJECT_DIR$/online-teaching-plus-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/online-teaching-plus-media/online-teaching-plus-media-api/pom.xml" />
+        <option value="$PROJECT_DIR$/online-teaching-plus-media/pom.xml" />
+        <option value="$PROJECT_DIR$/online-teaching-plus-media/online-teaching-plus-media-service/pom.xml" />
+        <option value="$PROJECT_DIR$/online-teaching-plus-media/online-teaching-plus-media-model/pom.xml" />
       </list>
     </option>
   </component>

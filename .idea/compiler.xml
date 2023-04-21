@@ -16,10 +16,17 @@
           <entry name="$PROJECT_DIR$/../../Maven_Repository/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar" />
         </processorPath>
         <module name="online-teaching-plus-base" />
-        <module name="online-teaching-plus-content-model" />
+        <module name="online-teaching-plus-system-api" />
         <module name="online-teaching-plus-content-api" />
+        <module name="online-teaching-plus-media-service" />
+        <module name="online-teaching-plus-media-api" />
+        <module name="online-teaching-plus-system-model" />
+        <module name="online-teaching-plus-media-model" />
+        <module name="online-teaching-plus-content-model" />
         <module name="online-teaching-plus-content-service" />
+        <module name="online-teaching-plus-gateway" />
         <module name="xuecheng-plus-generator" />
+        <module name="online-teaching-plus-system-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,7 +35,18 @@
       <module name="online-teaching-plus-content-api" target="1.8" />
       <module name="online-teaching-plus-content-model" target="1.8" />
       <module name="online-teaching-plus-content-service" target="1.8" />
+      <module name="online-teaching-plus-gateway" target="1.8" />
+      <module name="online-teaching-plus-media" target="1.8" />
+      <module name="online-teaching-plus-media-api" target="1.8" />
+      <module name="online-teaching-plus-media-model" target="1.8" />
+      <module name="online-teaching-plus-media-service" target="1.8" />
+      <module name="online-teaching-plus-model" target="1.8" />
       <module name="online-teaching-plus-parent" target="1.8" />
+      <module name="online-teaching-plus-service" target="1.8" />
+      <module name="online-teaching-plus-system" target="1.8" />
+      <module name="online-teaching-plus-system-api" target="1.8" />
+      <module name="online-teaching-plus-system-model" target="1.8" />
+      <module name="online-teaching-plus-system-service" target="1.8" />
       <module name="xuecheng-plus-generator" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -39,7 +57,13 @@
       <module name="online-teaching-plus-content-api" options="" />
       <module name="online-teaching-plus-content-model" options="" />
       <module name="online-teaching-plus-content-service" options="" />
+      <module name="online-teaching-plus-model" options="-parameters" />
       <module name="online-teaching-plus-parent" options="" />
+      <module name="online-teaching-plus-service" options="-parameters" />
+      <module name="online-teaching-plus-system" options="" />
+      <module name="online-teaching-plus-system-api" options="" />
+      <module name="online-teaching-plus-system-model" options="" />
+      <module name="online-teaching-plus-system-service" options="" />
     </option>
   </component>
 </project>
